@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BG Farmers</string>
+
+    <string name="add_button">Add Button</string>
+    <string name="top_app_bar_farmers">Registered Farmers</string>
+    <string name="search_button">Search Button</string>
+    <string name="sort_button">Sort Button</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="list_empty_content">No registered farmer found!\nClick on the button below to register a new farmer</string>
+    <string name="list_empty_icon">Empty Sad Icon</string>
+    <string name="register_farmer">Register Farmer</string>
+    <string name="new_farmer">New Farmer</string>
+    <string name="arrow_back">Back Button</string>
+    <string name="farmer_save">Farmer Save Button</string>
+    <string name="close_farmer">Close Farmer</string>
+    <string name="delete_farmer">Delete Farmer</string>
+    <string name="update_farmer">Update Farmer</string>
+    <string name="priority_icon_drop_down">Priority Icon Drop Down</string>
+    <string name="name">Name</string>
+    <string name="crop_type">Crop Type</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete_task_title">Remove %1$s?</string>
+    <string name="delete_task_message">Are you sure you want to remove %1$s?</string>
+    <string name="delete_all_farmers_title">Remove all registered farmers?</string>
+    <string name="delete_all_farmers_message">Are you sure you want to remove all registered farmers?</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="splash_screen">Splash Screen</string>
+</resources>
